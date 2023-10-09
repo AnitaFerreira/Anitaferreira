@@ -1,9 +1,9 @@
 ### Hi👋 , I'm Anita Ferreira 
 
 <div>
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=AnitaFerreira&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=AnitaFerreira&theme=blueberry&show_icons=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnitaFerreira&layout=compact&langs_count=16&theme=blueberry"/>
+  <!--<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=AnitaFerreira&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>-->
 </div>
 <br>
 <div  align="center"> 
